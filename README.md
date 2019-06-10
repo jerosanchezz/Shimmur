@@ -6,4 +6,4 @@ This is a classic displacement game, fun, select an entity from the bottom, and 
 
 If you have any questions or suggestions about Shimmur, do not hesitate to contact us.
 
-Email: unxe59@163.com
+Email: ikw792@163.com
